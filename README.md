@@ -11,4 +11,9 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Serfati&color=blueviolet" align="left">
 
+A **Software Engineering** 🚀 from Israel, Beer Sheba.
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Serfati&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Saja's GitHub Stats">
+
 
