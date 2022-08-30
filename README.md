@@ -10,6 +10,7 @@
   <img align="left" alt="saja's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Serfati&color=blueviolet" align="left">
+<br>
 
 A **Software Engineering** 🚀 from Israel, Beer Sheba.
 
