@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[<img src="https://github.com/Saja5050/Saja5050/blob/main/intro.gif" alt="👋 Hi there! I'm Saja " title="/>]
 <!--
 **Saja5050/Saja5050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
