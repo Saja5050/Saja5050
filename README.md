@@ -1,5 +1,6 @@
 ### Welcome to my account 👋
 <img src="https://github.com/Saja5050/Saja5050/blob/main/intro_page.gif" alt="👋 Hi there! I'm Saja " title="👋 Hi there! I'm Saja"/>
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Saja5050.Saja5050&color=00cf00)
 ![](https://visitor-badge.glitch.me/badge?page_id=Saja5050.Saja5050)
 <!--
 **Saja5050/Saja5050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
