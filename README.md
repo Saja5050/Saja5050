@@ -1,4 +1,4 @@
-### Welcome to my account 👋
+### Hello friend 👋
 <img src="https://github.com/Saja5050/Saja5050/blob/main/my_intro.gif" alt="👋 Hi there! I'm Saja " title="👋 Hi there! I'm Saja"/>
 <a href="https://www.linkedin.com/in/saja-abu-krenat-2040a6177/">
   <img align="left" alt="saja's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
