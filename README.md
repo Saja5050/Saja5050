@@ -12,7 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=Serfati&color=blueviolet" align="left">
 <br>
 
-A **Software Engineering** 🚀 from Israel, Beer Sheba.
+A **Software Engineering** .
 
 
 
